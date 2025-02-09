@@ -1,12 +1,12 @@
-# ECSE3038_lab2
+## ECSE3038_lab2
+
+# Summary
 
 GET /person
 Retrieves the current list of persons stored in memory.
 
 POST /person
 Adds a new person to the in-memory list.
-
-
 
 # Purpose
 
